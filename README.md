@@ -37,7 +37,7 @@
 
 📁 [N0Kernel](https://github.com/valleriankondengis/kernel_xiaomi_sm8250) (clone into: kernel/xiaomi/munch)
 
-📁 [Hardware_xiaomi](https://github.com/valleriankondengis/android_hardware_xiaomi) (clone into: hardware/xiaomi)
+📁 [Hardware_xiaomi]([https://github.com/valleriankondengis/android_hardware_xiaomi](https://github.com/valleriankondengis/android_hardware_dolby)) (clone into: hardware/xiaomi)
 
 ---
 
