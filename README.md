@@ -38,6 +38,7 @@
 📁 [N0Kernel](https://github.com/valleriankondengis/kernel_xiaomi_munch) (clone into: kernel/xiaomi/munch)
 
 📁 [Hardware_Xiaomi](https://github.com/valleriankondengis/hardware_xiaomi) (clone into: hardware/xiaomi)
+
 📁 [Hardware_Dolby](https://github.com/valleriankondengis/android_hardware_dolby) (clone into: hardware/dolby)
 
 ---
