@@ -1,5 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valleriankondengis&show_icons=true&locale=en)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=valleriankondengis)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=valleriankondengis&show_icons=true&locale=en&layout=compact)
