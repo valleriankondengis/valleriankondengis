@@ -43,7 +43,7 @@
 
 ---
 
-⚡ Additionall Poco F4 Source (from Hdzungx)
+⚡ Additional Poco F4 Source (from Hdzungx)
 
 📷 [Leica Camera](https://codeberg.org/munch-devs/android_vendor_xiaomi_miuicamera) (vendor/xiaomi/miuicamera)
 
