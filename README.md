@@ -31,19 +31,19 @@
 
 ✨ Poco F4 (Munch) source ✨
 
-📁 [Device Tree](https://github.com/valleriankondengis/android_device_xiaomi_munch) (clone into: device/xiaomi/munch)✨ there are some branch that you can clone ✨
+📁 [Device Tree](https://github.com/valleriankondengis/android_device_xiaomi_munch)
 
-📁 [Vendor Tree](https://github.com/valleriankondengis/android_vendor_xiaomi_munch) (clone into: vendor/xiaomi/munch)
+📁 [Vendor Tree](https://github.com/valleriankondengis/android_vendor_xiaomi_munch)
 
-📁 [N0Kernel](https://github.com/valleriankondengis/kernel_xiaomi_munch) (clone into: kernel/xiaomi/munch)
+📁 [FusionX Kernel](https://github.com/valleriankondengis/kernel_xiaomi_munch)
 
-📁 [Hardware_Xiaomi](https://github.com/valleriankondengis/hardware_xiaomi) (clone into: hardware/xiaomi)
+📁 [Hardware_Xiaomi](https://github.com/valleriankondengis/android_hardware_xiaomi)
 
-📁 [Hardware_Dolby](https://github.com/valleriankondengis/android_hardware_dolby) (clone into: hardware/dolby)
+📁 [Hardware_Dolby](https://github.com/valleriankondengis/android_hardware_dolby)
 
 ---
 
-⚡ Additionally you can add to Poco F4 ROM ✨ (from Hdzungx source) ✨
+⚡ Additionall Poco F4 Source (from Hdzungx)
 
 📷 [Leica Camera](https://codeberg.org/munch-devs/android_vendor_xiaomi_miuicamera) (vendor/xiaomi/miuicamera)
 
