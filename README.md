@@ -1,3 +1,5 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valleriankondengis&show_icons=true&locale=en)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=valleriankondengis)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=valleriankondengis&show_icons=true&locale=en&layout=compact)
@@ -39,9 +41,11 @@
 
 📁 [Hardware_Dolby](https://github.com/valleriankondengis/android_hardware_dolby)
 
+📁 [Private-Keys (Sign ROM)](https://github.com/valleriankondengis/lineage-priv-template.git)
+
 ---
 
-⚡ Additional Poco F4 Source (from Hdzungx)
+⚡ Additionall Poco F4 Source (from Hdzungx)
 
 📷 [Leica Camera](https://codeberg.org/munch-devs/android_vendor_xiaomi_miuicamera) (vendor/xiaomi/miuicamera)
 
