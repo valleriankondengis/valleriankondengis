@@ -33,7 +33,7 @@
 
 📁 [Hardware_Xiaomi](https://github.com/valleriankondengis/android_hardware_xiaomi)
 
-📁 [Hardware_Xiaomi LineageOS](https://github.com/valleriankondengis/android_hardware_xiaomi_lineage)
+📁 [Hardware_Xiaomi_LineageOS](https://github.com/valleriankondengis/android_hardware_xiaomi_lineage)
 
 📁 [Hardware_Dolby](https://github.com/valleriankondengis/android_hardware_dolby)
 
