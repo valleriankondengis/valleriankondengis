@@ -1,9 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valleriankondengis&show_icons=true&locale=en)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=valleriankondengis)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=valleriankondengis&show_icons=true&locale=en&layout=compact)
-
 <a href="https://sourceforge.net/projects/lighthouse/files/release/">
   <img src="https://img.shields.io/badge/SourceForge-FF6600?style=for-the-badge&logo=sourceforge&logoColor=white" alt="SourceForge"/>
 </a>
@@ -38,6 +32,8 @@
 📁 [FusionX Kernel](https://github.com/valleriankondengis/kernel_xiaomi_munch)
 
 📁 [Hardware_Xiaomi](https://github.com/valleriankondengis/android_hardware_xiaomi)
+
+📁 [Hardware_Xiaomi LineageOS](https://github.com/valleriankondengis/android_hardware_xiaomi_lineage)
 
 📁 [Hardware_Dolby](https://github.com/valleriankondengis/android_hardware_dolby)
 
