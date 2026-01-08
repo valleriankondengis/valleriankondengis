@@ -23,13 +23,13 @@
 
 ---
 
-✨ Poco F4 (Munch) source ✨
+Poco F4 (Munch) source
 
 📁 [Device Tree](https://github.com/valleriankondengis/android_device_xiaomi_munch)
 
 📁 [Vendor Tree](https://github.com/valleriankondengis/android_vendor_xiaomi_munch)
 
-📁 [FusionX Kernel](https://github.com/valleriankondengis/kernel_xiaomi_munch)
+📁 [FusionX Kernel](https://github.com/valleriankondengis/fusionX_sm8250)
 
 📁 [Hardware_Xiaomi](https://github.com/valleriankondengis/android_hardware_xiaomi)
 
@@ -38,10 +38,6 @@
 📁 [Hardware_Dolby](https://github.com/valleriankondengis/android_hardware_dolby)
 
 📁 [Private-Keys (Sign ROM)](https://github.com/valleriankondengis/lineage-priv-template.git)
-
----
-
-⚡ Additionall Poco F4 Source (from Hdzungx)
 
 📷 [Leica Camera](https://codeberg.org/munch-devs/android_vendor_xiaomi_miuicamera) (vendor/xiaomi/miuicamera)
 
